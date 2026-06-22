@@ -4,3 +4,4 @@ My name is Jami. I have started this web tech journey recently.
 
 my changes
 local changes
+new global changes
